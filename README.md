@@ -1,4 +1,4 @@
-# Acme Container Platform: Docker and Kubernetes on a Multi-Node kind Cluster
+# Container Platform Lab: Docker and Kubernetes on a Multi-Node kind Cluster
 
 ![Docker](https://img.shields.io/badge/Docker%20Desktop-WSL2-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-kind%20(3%20nodes)-326CE5?logo=kubernetes&logoColor=white)
@@ -252,4 +252,4 @@ Based on this proof of concept, I would recommend adopting Kubernetes for contai
 
 ## Author
 
-**Geoffrey Mackey**, Cybersecurity and Information Technology student at the University of Cincinnati.
+**Geoffrey Mackey**, Cybersecurity Professional & Student at the University of Cincinnati.
