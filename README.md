@@ -1,0 +1,2 @@
+# Container-Platform-Lab-Docker-and-Kubernetes-on-a-Multi-Node-kind-Cluster
+Homelab project evaluating Docker and Kubernetes for containerized apps. I took containers through their full lifecycle, troubleshot them from the inside, and hardened them with resource limits, non-root execution, and CVE scanning, then moved the workload to a 3-node Kubernetes cluster to test deployments, self-healing, scaling, and networking.
